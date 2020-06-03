@@ -1,4 +1,4 @@
-package ru.ayupov.task2;
+package lesson02.ayupov.task2;
 
 public class Main {
     public static void main(String[] args) {
