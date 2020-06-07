@@ -5,7 +5,7 @@ public class Main {
         final int secondsInHour = 3600;
         int hours = 3;
         int sum = hours * secondsInHour;
-        System.out.println("В 1 ч. - " + secondsInHour +" с.");
-        System.out.println("В " + hours + " ч. - " + sum +" с.");
+        System.out.println("В 1 ч. - " + secondsInHour + " с.");
+        System.out.println("В " + hours + " ч. - " + sum + " с.");
     }
 }
