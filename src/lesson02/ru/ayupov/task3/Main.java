@@ -3,9 +3,8 @@ package lesson02.ru.ayupov.task3;
 public class Main {
     public static void main(String[] args) {
         final int secondsInHour = 3600;
-        int hours = 3;
-        int sum = hours * secondsInHour;
-        System.out.println("В 1 ч. - " + secondsInHour + " с.");
-        System.out.println("В " + hours + " ч. - " + sum + " с.");
+        int seconds = 3600;
+        int sum = seconds / secondsInHour;
+        System.out.println(seconds + " c. = " + sum + " ч.");
     }
 }
