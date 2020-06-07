@@ -1,4 +1,4 @@
-package ru.ayupov.lesson03.task2;
+package lesson03.ru.ayupov.task2;
 
 import java.util.Scanner;
 

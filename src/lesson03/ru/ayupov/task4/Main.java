@@ -1,4 +1,4 @@
-package ru.ayupov.lesson03.task4;
+package lesson03.ru.ayupov.task4;
 
 import java.util.Random;
 import java.util.Scanner;
